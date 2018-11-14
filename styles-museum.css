@@ -1,9 +1,17 @@
 body{
 	background-color: #F3E5AB;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 h1, h3{
 	color: #1b7742;
+	font-family: 'Russo One', sans-serif;
+}
+
+marquee{
+	font-size: 20pt;
+	background-color: #E8DAA0;
+	font-family: 'Roboto Slab', serif;
 }
 
 img{
