@@ -1,0 +1,24 @@
+body{
+	background-color: #F3E5AB;
+}
+
+h1, h3{
+	color: #1b7742;
+}
+
+img{
+	display: inline-block;
+	margin-left: 12.5%;
+	border: 3px dotted #1b7742;
+}
+
+a{
+	display: inline;
+	margin-left: 10%;
+}
+
+p.credits{
+	text-align: center;
+	font-variant: small-caps;
+	font-size: 14pt;
+}
