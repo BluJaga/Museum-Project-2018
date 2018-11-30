@@ -23,6 +23,12 @@ img{
 a{
 	display: inline;
 	margin-left: 10%;
+	text-decoration: none;
+	color: #000000;
+}
+
+nav{
+	background-color: #667B4C;
 }
 
 p.credits{
