@@ -14,10 +14,28 @@ marquee{
 	font-family: 'Roboto Slab', serif;
 }
 
-img{
+img.home{
 	display: inline-block;
 	margin-left: 12.5%;
 	border: 3px dotted #1b7742;
+}
+
+img.unitpage{
+	display: inline-block;
+	margin-left: 31%;
+	border: 3px dotted #1b7742;
+}
+
+table, th, td{
+	border: 3px groove #1b7742;
+}
+
+table{
+	padding: 3px;
+}
+
+td{
+	text-align: center;
 }
 
 a{
